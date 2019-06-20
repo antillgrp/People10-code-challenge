@@ -1,10 +1,10 @@
 # People10-code-challenge
 Client server application using:
 
-## Back-End:
+## - Back-End:
 Spring-Boot (JPA, Hibernate, MySQL)
 
-## Front-End
+## - Front-End
 ReactJS, Redux and other libraries 
 
 ## Instructions(server)
@@ -30,22 +30,21 @@ Run spring boot server:
 
 --------------------------------------
 
-### Web Service Engineering Challenge
+###  - Web Service Engineering Challenge
 
 Created and spring-boot RestAPI server app
 
-### ETL Engineering Challenge
+### - ETL Engineering Challenge
 
 In the webapp use Data Loader to load either the CSV files or JSON files 
 
-### JS Engineering Challenge
+### - JS Engineering Challenge
 
 React application
 
-### UI/UX Design Challenge
+### - UI/UX Design Challenge
 
 Integrated the functionality of the application with the react-admin library which use Material UI for React
-
 
 #### Note 
 
