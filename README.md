@@ -1,13 +1,13 @@
 # People10-code-challenge
-Client server aplication using:
+Client server application using:
 
 ## Back-End:
-Spring-Boot(JPA,Hibernate,MySQL)
+Spring-Boot (JPA, Hibernate, MySQL)
 
 ## Front-End
-ReactJS,Redux and other libraries 
+ReactJS, Redux and other libraries 
 
-# Instructions(server)
+## Instructions(server)
 
 Set up MySQL:
 
@@ -22,11 +22,15 @@ Run spring boot server:
 > cd challenge-client-server-app/server
 > mvn spring-boot:run
 
-# Instructions(webapp)
+## Instructions(webapp)
 
 > cd challenge-client-server-app/client
 > yarn
 > yarn start
+
+### Web Service Engineering Challenge
+
+Created and spring-boot RestAPI server app
 
 ### ETL Engineering Challenge
 
@@ -34,11 +38,23 @@ In the webapp use Data Loader to load either the CSV files or JSON files
 
 ### JS Engineering Challenge
 
-React aplication
+React application
 
 ### UI/UX Design Challenge
 
 Integrated the functionality of the application with the react-admin library which use Material UI for React
+
+
+#### Note 
+
+Thanks to People10 Technosoft Pvt. Ltd. for this opportunity
+
+There is much more that can be done, but I believe this is a good starting 
+
+Here I add a little bit more of my recently written code:
+
+https://stackblitz.com/edit/react-ts-ms-mui-dev?embed=1&file=index.tsx
+
 
 
 
