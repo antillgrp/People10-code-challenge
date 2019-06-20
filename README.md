@@ -14,19 +14,19 @@ Set up MySQL:
 - create and grant permissions to user: user password: password
 - create database: customers
 - load the data into the database
-> mysql -u user -p customers < customers.sql
+#### > mysql -u user -p customers < customers.sql
 password: password
 
 Run spring boot server:
 
-> cd challenge-client-server-app/server
-> mvn spring-boot:run
+#### > cd challenge-client-server-app/server
+#### > mvn spring-boot:run
 
 ## Instructions(webapp)
 
-> cd challenge-client-server-app/client
-> yarn
-> yarn start
+#### > cd challenge-client-server-app/client
+#### > yarn
+#### > yarn start
 
 ### Web Service Engineering Challenge
 
