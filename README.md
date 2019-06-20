@@ -1,17 +1,17 @@
 # People10-code-challenge
 Client server aplication using:
 
-# Back-End:
+## Back-End:
 Spring-Boot(JPA,Hibernate,MySQL)
 
-# Front-End
+## Front-End
 ReactJS,Redux and other libraries 
 
 # Instructions(server)
 
 Set up MySQL:
 
-- create user: user password: password
+- create and grant permissions to user: user password: password
 - create database: customers
 - load the data into the database
 > mysql -u user -p customers < customers.sql
@@ -38,7 +38,7 @@ React aplication
 
 ### UI/UX Design Challenge
 
-Integrated the funtionality of the aplication with the react-admin library which use Material UI for react
+Integrated the functionality of the application with the react-admin library which use Material UI for React
 
 
 
