@@ -11,9 +11,10 @@ ReactJS, Redux and other libraries
 
 Set up MySQL:
 
-- create and grant permissions to user: #### user password: #### password
-- create database: #### customers
-- load the data into the database
+- create and grant permissions to user: user password: password
+- create database: customers
+- load the data into the database:
+
 #### > mysql -u user -p customers < customers.sql
 #### password: password
 
