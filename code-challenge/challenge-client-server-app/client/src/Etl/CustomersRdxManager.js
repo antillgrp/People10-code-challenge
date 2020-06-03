@@ -4,7 +4,9 @@ class CustomersRdxManager{ //SINGLETON
 
     static get initialState() {
         //action date/time for insert and update
+        // eslint-disable-next-line
         let nowFormatedDate = new Date().toISOString();
+        // eslint-disable-next-line
         nowFormatedDate = nowFormatedDate.split('T')[0] + ' ' + nowFormatedDate.split('T')[1].split('.')[0];
 
         return {
@@ -53,7 +55,9 @@ class CustomersRdxManager{ //SINGLETON
             const { customers, deletedCusts } = state;
 
             //action date/time for insert and update
+            // eslint-disable-next-line
             let nowFormatedDate = new Date().toISOString();
+            // eslint-disable-next-line
             nowFormatedDate = nowFormatedDate.split('T')[0] + ' ' + nowFormatedDate.split('T')[1].split('.')[0];
 
             switch (action.type) {

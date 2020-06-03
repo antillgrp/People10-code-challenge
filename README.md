@@ -18,6 +18,13 @@ Set up MySQL:
 #### > mysql -u user -p customers < customers.sql
 #### password: password
 
+Install Maven:
+
+#### https://www.baeldung.com/install-maven-on-windows-linux-mac
+#### https://maven.apache.org/download.cgi
+#### https://maven.apache.org/install.html
+
+
 Run spring boot server:
 
 #### > cd challenge-client-server-app/server
