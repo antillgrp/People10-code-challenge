@@ -23,6 +23,7 @@ Install Maven:
 #### https://www.baeldung.com/install-maven-on-windows-linux-mac
 #### https://maven.apache.org/download.cgi
 #### https://maven.apache.org/install.html
+#### https://linuxize.com/post/how-to-install-apache-maven-on-ubuntu-18-04/
 
 
 Run spring boot server:
